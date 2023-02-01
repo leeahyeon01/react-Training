@@ -1,3 +1,4 @@
+//Class state 예제
 import React, { Component } from "react";
 
 class Counter extends Component { 
